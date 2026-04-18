@@ -5,12 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Lucca Marinho Eterovik Tavares Pereira
+- Matricula: 913529
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1914" height="936" alt="image" src="https://github.com/user-attachments/assets/a70e6905-e687-4d07-b57f-c0289e86ab2a" />
+
 
 
 
